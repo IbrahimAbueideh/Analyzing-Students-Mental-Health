@@ -24,3 +24,5 @@ GROUP BY
     stay
 ORDER BY 
     stay DESC;
+### 📊 Query Results Output
+![SQL Query Results](results.png)
